@@ -1,3 +1,3 @@
 # ？！弱弱！？
-![个人博客](https://img.shields.io/badge/Blog-pc.huai.site-4CAF50)  ![哔哩哔哩](https://img.shields.io/badge/Bilibili-@huaisama-ff69b4)  
+[个人博客](https://pc.huai.site/)  |  [哔哩哔哩](https://space.bilibili.com/1266404032)
 # 我是伪人
