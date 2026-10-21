@@ -18,11 +18,11 @@
 ```javascript
 const huaisama = {
   name: "huaisama",
-  pronouns: "he / him",
-  location: "🌏 地球",
-  code: ["Python", "TypeScript", "Go", "Rust"],
-  tools: ["VS Code", "Docker", "Git", "Linux"],
-  learning: ["AI / LLM", "Cloud Native", "System Design"],
-  hobbies: ["🎵 音乐", "📷 摄影", "🏔️ 徒步"],
-  motto: "Talk is cheap. Show me the code.",
+  pronouns: "滚木",
+  location: "滚木",
+  code: ["滚木"],
+  tools: ["滚木"],
+  learning: ["滚木"],
+  hobbies: ["滚木"],
+  motto: "滚木",
 };
