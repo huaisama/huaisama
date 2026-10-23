@@ -17,7 +17,7 @@
 
 ```console
 huaisama@github ~ $ whoami
-huaisama ── 喜欢把奇怪的想法写成能跑的东西
+滚木
 
 huaisama@github ~ $ ls ~/projects
 滚木
