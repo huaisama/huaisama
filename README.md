@@ -15,14 +15,20 @@
 
 ### 👋 关于我 · About Me
 
-```javascript
-const huaisama = {
-  name: "huaisama",
-  pronouns: "滚木",
-  location: "滚木",
-  code: ["滚木"],
-  tools: ["滚木"],
-  learning: ["滚木"],
-  hobbies: ["滚木"],
-  motto: "滚木",
-};
+### 👋 关于我 · About Me
+
+```console
+huaisama@github ~ $ whoami
+huaisama ── 喜欢把奇怪的想法写成能跑的东西
+
+huaisama@github ~ $ ls ~/projects
+滚木
+
+huaisama@github ~ $ cat ~/.stack
+滚木
+
+huaisama@github ~ $ cat ~/motto.txt
+滚木
+
+huaisama@github ~ $ █
+```
